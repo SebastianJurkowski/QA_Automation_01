@@ -1,0 +1,19 @@
+##Content
+SeleniumSample.java 
+
+##Purpose
+This test case automates the process of using Firefox browser to search for "Levels Beyond reach engine" using Google Search, and confirming the first link displayed in search results is as specified.
+
+##Automated Steps
+1. Brings up the Google search page in Firefox browser
+2. Enters “levels beyond reach engine” in the search field
+3. Clicks "Search" button
+4. Clicks on first link presented in search results 
+5. Validates the landing page to be www.reachengine.com
+
+##Test Setup & info
+1. Download SeleniumSample.java
+2. Run in Eclipse as Junit 4 test
+3. The automated test case contains test and negative test
+
+
